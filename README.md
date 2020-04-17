@@ -36,6 +36,7 @@
 Лидер - Камынин Никита Сергеевич.
 
 Главный программист - Титов Виктор Сергеевич.
+![alt tag] (https://github.com/Gadyka36/Bulls-and-Cows/blob/master/IMG-20200317-WA0002.jpg)
 
 
 
