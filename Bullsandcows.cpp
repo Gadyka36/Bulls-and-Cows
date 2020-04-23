@@ -26,4 +26,5 @@ void Logo ()
 int main ()
 {
 	Logo() ;
+	return 0;
 }
